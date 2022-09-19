@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a Reputated Company.
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about --Anything🤔
-- 📫 How to reach me: 
-                      Mob-8509571179 | Email-atabur8119921@gmail.com
+- 📫 How to reach me: Email-atabur8119921@gmail.com
 <!-- - 😄 Pronouns:  -->
 - ⚡ Fun fact: Nothing to share😄
-
