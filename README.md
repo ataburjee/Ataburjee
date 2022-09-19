@@ -11,9 +11,7 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about --Anything🤔
 - 📫 How to reach me: 
-                      -Mob-8509571179
-                      -Email-atabur8119921@gmail.com
-                      -LinkedIn-"https://www.linkedin.com/in/atabur-rahaman-mollah-b81373246/"
+                      Mob-8509571179 | Email-atabur8119921@gmail.com
 <!-- - 😄 Pronouns:  -->
 - ⚡ Fun fact: Nothing to share😄
 
