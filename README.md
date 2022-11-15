@@ -15,7 +15,7 @@ growing and evolving in my proffession. Being enthusiastic, developing new skill
 and abilities.
 <p/>
 <br>
-<img align="right" alt="Coding" width="400" margin-top="30px" src="https://thehustle.co/wp-content/uploads/2019/10/header-1-1.gif"/>
+<img align="right" alt="Coding" width="400" margin-top="30px" src="https://www.mygo.ge/uploads/blog/1584024060.jpg"/>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ataburjee/Ataburjee.github.io](https://github.com/Ataburjee/Ataburjee.github.io)
