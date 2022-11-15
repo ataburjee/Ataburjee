@@ -6,8 +6,9 @@
 
 <p align="middle" margin-bottom:20px> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ataburjee" alt="ataburjee" /></a> </p>
 
+<br/>
 
-<img align="right" alt="Coding" width="400" src="https://www.creative-tim.com/blog/content/images/2021/10/Github-profile-1.jpg"/>
+<img align="right" alt="Coding" width="400" margin-top="30px" src="https://www.creative-tim.com/blog/content/images/2021/10/Github-profile-1.jpg"/>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ataburjee/Ataburjee.github.io](https://github.com/Ataburjee/Ataburjee.github.io)
