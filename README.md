@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.zscaler.com/sites/default/files/images/blogs/BLOG%20size-GettyImages-479801072_6.jpg)
+![MasterHead](https://geekflare.com/wp-content/uploads/2021/10/new-in-java-17.png)
 
 <h1 align="center">Hi 👋, I'm Atabur Rahaman Mollah</h1>
 <h3 align="center">Full stack Java developer</h3>
@@ -15,7 +15,7 @@ growing and evolving in my proffession. Being enthusiastic, developing new skill
 and abilities.
 <p/>
 <br>
-<img align="right" alt="Coding" width="400" margin-top="30px" src="https://www.creative-tim.com/blog/content/images/2021/10/Github-profile-1.jpg"/>
+<img align="right" alt="Coding" width="400" margin-top="30px" src="https://thehustle.co/wp-content/uploads/2019/10/header-1-1.gif"/>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ataburjee/Ataburjee.github.io](https://github.com/Ataburjee/Ataburjee.github.io)
