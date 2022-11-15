@@ -8,8 +8,13 @@
 
 <p align="middle" margin-bottom:20px> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ataburjee" alt="ataburjee" /></a> </p>
 
-<br/>
 
+<P><b>About : <b/> Hi, I am Atabur Rahaman Mollah, A Hard-workng, creative and proactive, specialised in JAVA programming along
+with JAVASCRIPT and Data Structure Algorithm. Ambitious eager to keep
+growing and evolving in my proffession. Being enthusiastic, developing new skills
+and abilities.
+<p/>
+<br>
 <img align="right" alt="Coding" width="400" margin-top="30px" src="https://www.creative-tim.com/blog/content/images/2021/10/Github-profile-1.jpg"/>
 
 
