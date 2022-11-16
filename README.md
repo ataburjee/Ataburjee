@@ -14,7 +14,7 @@ with JAVASCRIPT and Data Structure Algorithm. Ambitious eager to keep
 growing and evolving in my proffession. Being enthusiastic, developing new skills
 and abilities.<p/>
   <br/>
-<img align="right" alt="Coding" width="400" margin-top="30px" src="https://www.mygo.ge/uploads/blog/1584024060.jpg"/>
+<img align="right" alt="Coding" width="400" margin-top="-50px" src="https://www.mygo.ge/uploads/blog/1584024060.jpg"/>
 
 
 - 👨‍💻 All of my projects are available- [GitHub](https://github.com/Ataburjee/Ataburjee.github.io)
