@@ -4,17 +4,17 @@
 
 <h1 align="center">Hi 👋, I'm Atabur Rahaman Mollah</h1>
 <h2 align="center">Full stack Java developer<h2/>
-
-
+  
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataburjee&label=Profile%20views&color=0e75b6&style=flat" alt="ataburjee" /> </p>
-
+  
 ## About me:
 <P> Hi, I am Atabur Rahaman Mollah, A Hard-workng, creative and proactive, specialised in JAVA programming along
 with JAVASCRIPT and Data Structure Algorithm. Ambitious eager to keep
 growing and evolving in my proffession. Being enthusiastic, developing new skills
 and abilities.<p/>
-  <br/>
-<img align="right" alt="Coding" width="400" margin-top="-50px" src="https://www.mygo.ge/uploads/blog/1584024060.jpg"/>
+  
+<img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584024060.jpg"/>
 
   ## Description:
 
