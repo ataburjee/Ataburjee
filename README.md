@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataburjee&label=Profile%20views&color=0e75b6&style=flat" alt="ataburjee" /> </p>
 
-## About :
+## About me:
 <P> Hi, I am Atabur Rahaman Mollah, A Hard-workng, creative and proactive, specialised in JAVA programming along
 with JAVASCRIPT and Data Structure Algorithm. Ambitious eager to keep
 growing and evolving in my proffession. Being enthusiastic, developing new skills
@@ -16,6 +16,7 @@ and abilities.<p/>
   <br/>
 <img align="right" alt="Coding" width="400" margin-top="-50px" src="https://www.mygo.ge/uploads/blog/1584024060.jpg"/>
 
+  ## Description:
 
 - 👨‍💻 All of my projects are available- [GitHub](https://github.com/Ataburjee/Ataburjee.github.io)
 
@@ -24,9 +25,6 @@ and abilities.<p/>
 - 📫 How to reach me **atabur8119921@gmail.com**
 
 - 📄 Know about my experiences- [Resume](https://drive.google.com/file/d/1iRphAdrS6FDswIS_qf9dZnrl3sBiXlRP/view?usp=sharing)
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ataburjee&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-  
   
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -35,7 +33,12 @@ and abilities.<p/>
 <a href="https://www.youtube.com/c/argaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="argaming" height="30" width="40" />YouTube</a>
 <a href="https://www.hackerrank.com/atabur8119921@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="atabur8119921@gmail.com" height="30" width="40" />HackerRank</a>
 </p>
+  
+ <br/>
 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ataburjee&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+  
+  
 <h2 align="left">Languages and Tools:</h2>
 <p align="left" gap="10px"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://dev.java/assets/images/java-logo-vert-blk.png" alt="java" width="40" height="40"/> </a>
