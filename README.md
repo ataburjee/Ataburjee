@@ -12,7 +12,7 @@
   
 ## About me:
 <P> Hi, I am Atabur Rahaman Mollah, A Hard-workng, creative and proactive full stack Java developer along 
-with JAVASCRIPT and Data Structure Algorithm having well knowledge in SpringBoot. Habitual in Hibernate, MySQL, Postman and Swagger also. Ambitious eager to keep
+with JavaScript and Data Structure Algorithm having well knowledge in SpringBoot. Habitual in Hibernate, MySQL, Postman and Swagger also. Ambitious eager to keep
 growing and evolving in my proffession. Being enthusiastic, developing new skills and abilities.<p/>
   
 <img align="right" alt="Coding" width="400" src="https://www.mygo.ge/uploads/blog/1584024060.jpg"/>
