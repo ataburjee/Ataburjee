@@ -4,11 +4,11 @@
 <!-- ![MasterHead](header.gif) -->
 <!-- ![MasterHead](https://geekflare.com/wp-content/uploads/2021/10/new-in-java-17.png) -->
 
-<h1 align="center">Hi 👋, I'm Atabur Rahaman Mollah</h1>
-<h2 align="center">Full stack Java developer<h2/>
+<!-- <h1 align="center">Hi 👋, I'm Atabur Rahaman Mollah</h1> -->
+<!-- <h2 align="center">Full stack Java developer<h2/> -->
   
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ataburjee&label=Profile%20views&color=0e75b6&style=flat" alt="ataburjee" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ataburjee&label=Profile%20views&color=0e75b6&style=flat" alt="ataburjee" /> </p>
   
 ## About me:
 <P> Hi, I am Atabur Rahaman Mollah, A Hard-workng, creative and proactive full stack Java developer along 
