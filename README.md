@@ -60,10 +60,7 @@ growing and evolving in my proffession. Being enthusiastic, developing new skill
 
   <br/>
 
-  <div style="display:flex;">
-<img width="48.5%" src="https://github-readme-streak-stats.herokuapp.com?user=ataburjee&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-<img margin-left="-10px" src="https://github-readme-stats.vercel.app/api?username=ataburjee&theme=vue-dark&hide_border=true" alt="" />
-  
-  
+  <div style="display:flex; ">
+    <img style="padding-right:20px;" src="https://github-readme-streak-stats.herokuapp.com?user=ataburjee&theme=yellowdark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My         github stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ataburjee&theme=highcontrast&hide_border=true" alt="" />
   </div>
