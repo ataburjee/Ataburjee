@@ -37,7 +37,7 @@ growing and evolving in my proffession. Being enthusiastic, developing new skill
   
  <br/>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ataburjee&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ataburjee&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
   
   
 <h2 align="left">Languages and Tools:</h2>
