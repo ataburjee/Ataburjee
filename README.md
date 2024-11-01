@@ -11,9 +11,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ataburjee&label=Profile%20views&color=0e75b6&style=flat" alt="ataburjee" /> </p>
   
 ## About me:
-<P> Hi, Hard-working and proactive backend developer with 1.5+ years of experience in designing and optimizing scalable applications. Skilled in Java, Spring Boot, and Hibernate, with hands-on expertise in SQL and NoSQL databases, RESTful API design, and containerization with Docker. Passionate about clean code, data-driven insights, and continually expanding my knowledge in backend development. Ambitious and eager to tackle new challenges in software engineering.
-
-This version incorporates your experience, tools, and skills, while showing your enthusiasm for growth and backend development.<p/>
+<P> Hi, 
+  Hard-working and proactive backend developer with 1.5+ years of experience in designing and optimizing scalable applications. Skilled in Java, Spring Boot, and Hibernate, with hands-on expertise in SQL and NoSQL databases, RESTful API design, and containerization with Docker. Passionate about clean code, data-driven insights, and continually expanding my knowledge in backend development. Ambitious and eager to tackle new challenges in software engineering.<p/>
 
 <img align="right" alt="Coding" width="300" height="265" src="https://www.mygo.ge/uploads/blog/1584024060.jpg"/>
 
